@@ -1,0 +1,3 @@
+# Module databaseexplorer
+# RPC service class, partial path of RPC policy file
+com.yay.db.client.GreetingService, 6B280EF21EBAD10581DE728658F9E7EA.gwt.rpc

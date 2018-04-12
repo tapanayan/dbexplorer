@@ -1,0 +1,2 @@
+serviceClass: com.yay.db.client.GreetingService
+path: 6B280EF21EBAD10581DE728658F9E7EA.gwt.rpc
